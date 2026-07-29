@@ -1,5 +1,7 @@
 # FLTK Text Editor
 
+![FLTK Text Editor](screenshot.png)
+
 A small GUI text editor built with [FLTK](https://www.fltk.org/), from the
 official tutorial: <https://www.fltk.org/doc-1.1/editor.html> (updated for FLTK 1.4).
 
